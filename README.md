@@ -1,6 +1,6 @@
 ## 🧠 Baekjoon Step-by-Step Progress for **Republic of Korea Air Force Hackathon**
 
-I systematically completed Baekjoon’s official step-by-step problem-solving curriculum using Python (and a few problems in Java).
+I systematically completed Baekjoon’s structured step-by-step problem-solving curriculum using Python (and a few problems in Java).
 From the most basic input/output exercises to algorithmic challenges like brute-force search and recursion,  
 each stage strengthened my foundation in algorithmic thinking and computational efficiency.
 
@@ -30,6 +30,7 @@ Through these stages, I developed a deep understanding of how **time complexity,
 ---
 
 ## 📘 Focus Areas
+- 🧩 **Clean, efficient Python implementation** with minimal I/O overhead and optimized execution  
 - 🔁 **Algorithmic pattern mastery**, including brute-force, recursion, combinatorial search, and optimization strategies  
 - 🧠 **Dynamic Programming (DP)** — learned how to build recurrence relations (e.g., `dp[i] = dp[i-1] + dp[i-2]`) to solve problems efficiently using previous results  
 - 🌉 **Graph theory and traversal** — applied BFS/DFS for connected components, shortest paths, and maze-type problems  
