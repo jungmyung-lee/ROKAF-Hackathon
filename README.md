@@ -7,7 +7,7 @@ each stage strengthened my foundation in algorithmic thinking and computational 
 <p align="center">
   <img width="1056" height="787" src="https://github.com/user-attachments/assets/087f839e-5c33-427c-a15f-a32d78fd0abf" alt="ROKAF Hackathon Coding Test Day"/>
   <br/>
-  <em>📅 ROKAF Hackathon — Coding Test Day</em>
+  <em>📅 ROKAF Hackathon — Coding Test Day, 10th Fighter Wing (Suwon Air Base)</em>
 </p>
 
 ### ✅ Completed Stages
