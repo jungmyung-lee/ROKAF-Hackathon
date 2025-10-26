@@ -30,16 +30,15 @@ Through these stages, I developed a deep understanding of how **time complexity,
 ---
 
 ## 📘 Focus Areas
-- Clean, efficient **Python implementation** with minimal I/O overhead  
-- Understanding **algorithmic patterns** such as brute-force, recursion, and combinatorial search  
-- Mastery of **core data structures** like stacks, queues, and deques  
-- Proficiency in **number theory**, **modular arithmetic**, and **geometry fundamentals**  
-- Experience with **BFS/DFS graph traversal**, **dynamic programming**, and **backtracking**
+- 🔁 **Algorithmic pattern mastery**, including brute-force, recursion, combinatorial search, and optimization strategies  
+- 🧠 **Dynamic Programming (DP)** — learned how to build recurrence relations (e.g., `dp[i] = dp[i-1] + dp[i-2]`) to solve problems efficiently using previous results  
+- 🌉 **Graph theory and traversal** — applied BFS/DFS for connected components, shortest paths, and maze-type problems  
+- 🧮 **Number theory and modular arithmetic** — explored GCD/LCM, primes, factorial zeros, and residue computations  
+- 📐 **Geometry fundamentals** — implemented problems involving area, distance, and coordinate geometry  
+- 🧱 **Data structures** — proficient with stacks, queues, deques, priority queues, and tree-based problems  
+- 🔢 **Mathematical and combinatorial reasoning** — practiced permutations, combinations, and bitmask applications  
+- 🔧 **Problem modeling and debugging** — consistently refactored solutions for clarity, modularity, and performance  
+
 
 ---
 
-## 🎯 Outcome
-By completing the entire Baekjoon roadmap up to the **brute-force stage**,  
-I built a strong foundation in computational logic and efficiency —  
-a skillset that directly supported my participation in the **Republic of Korea Air Force Hackathon**,  
-where I applied these algorithmic principles to real-world AI and data problems.
