@@ -1,4 +1,4 @@
-## 🧠 Baekjoon Step-by-Step Progress for **Republic of Korea Air Force Hackathon**
+## Baekjoon Step-by-Step Progress for **Republic of Korea Air Force Hackathon**
 
 I systematically completed Baekjoon’s structured step-by-step problem-solving curriculum using Python (and a few problems in Java).
 From the most basic input/output exercises to algorithmic challenges like brute-force search and recursion,  
@@ -10,7 +10,7 @@ each stage strengthened my foundation in algorithmic thinking and computational 
   <em>📅 ROKAF Hackathon — Coding Test Day, 10th Fighter Wing (Suwon Air Base)</em>
 </p>
 
-### ✅ Completed Stages
+### Completed Stages
 
 **1. Input and Arithmetic Operations** — Practiced basic input/output and arithmetic operations (13 problems)  
 **2. Conditional Statements** — Learned how to control program flow using `if`, `else`, and `elif` (7 problems)  
@@ -29,16 +29,16 @@ Through these stages, I developed a deep understanding of how **time complexity,
 
 ---
 
-## 📘 Focus Areas
-- 🧩 **Clean, efficient Python implementation** with minimal I/O overhead and optimized execution  
-- 🔁 **Algorithmic pattern mastery**, including brute-force, recursion, combinatorial search, and optimization strategies  
-- 🧠 **Dynamic Programming (DP)** — learned how to build recurrence relations (e.g., `dp[i] = dp[i-1] + dp[i-2]`) to solve problems efficiently using previous results  
-- 🌉 **Graph theory and traversal** — applied BFS/DFS for connected components, shortest paths, and maze-type problems  
-- 🧮 **Number theory and modular arithmetic** — explored GCD/LCM, primes, factorial zeros, and residue computations  
-- 📐 **Geometry fundamentals** — implemented problems involving area, distance, and coordinate geometry  
-- 🧱 **Data structures** — proficient with stacks, queues, deques, priority queues, and tree-based problems  
-- 🔢 **Mathematical and combinatorial reasoning** — practiced permutations, combinations, and bitmask applications  
-- 🔧 **Problem modeling and debugging** — consistently refactored solutions for clarity, modularity, and performance  
+## Focus Areas
+- **Clean, efficient Python implementation** with minimal I/O overhead and optimized execution  
+- **Algorithmic pattern mastery**, including brute-force, recursion, combinatorial search, and optimization strategies  
+- **Dynamic Programming (DP)** — learned how to build recurrence relations (e.g., `dp[i] = dp[i-1] + dp[i-2]`) to solve problems efficiently using previous results  
+- **Graph theory and traversal** — applied BFS/DFS for connected components, shortest paths, and maze-type problems  
+- **Number theory and modular arithmetic** — explored GCD/LCM, primes, factorial zeros, and residue computations  
+- **Geometry fundamentals** — implemented problems involving area, distance, and coordinate geometry  
+- **Data structures** — proficient with stacks, queues, deques, priority queues, and tree-based problems  
+- **Mathematical and combinatorial reasoning** — practiced permutations, combinations, and bitmask applications  
+- **Problem modeling and debugging** — consistently refactored solutions for clarity, modularity, and performance  
 
 
 ---
