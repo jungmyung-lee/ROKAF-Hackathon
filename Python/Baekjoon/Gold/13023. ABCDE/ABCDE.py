@@ -13,6 +13,7 @@ def dfs(x, depth):
     for i in graph[x]:
         if not visited[i]:
             dfs(i, depth+1)
+    # backtrack so other paths can reuse this node
     visited[x] = False
                     
 
