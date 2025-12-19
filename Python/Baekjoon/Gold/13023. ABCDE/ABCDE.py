@@ -29,9 +29,9 @@ for i in range(m):
     
 
 arrive = False
-for i in range(n):
-    if not visited[i]:
-        dfs(i, 1)
+for start_node in range(n):
+    if not visited[start_node]:
+        dfs(start_node, 1)
         if arrive:
             break
                 
