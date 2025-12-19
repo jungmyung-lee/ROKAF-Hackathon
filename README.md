@@ -43,3 +43,28 @@ Through these stages, I developed a deep understanding of how **time complexity,
 
 ---
 
+## Team Background 
+
+- **Jungmyung Lee — Team Leader**  
+  Transportation Squadron  
+  **Iowa State University — Computer Science**  
+  Led the hackathon team from the coding test stage through the preliminary rounds,
+  overseeing data preprocessing, AI model training, and overall technical direction
+  of the project.
+
+- **Doyoon Kwon**  
+  Military Medical Officer Assignment  
+  Has extensive experience designing AI models for medical data analysis,
+  primarily using **R**, and contributed to data preprocessing and model training.
+
+- **Hongjae Shim**  
+  Wing Headquarters, Yonsei University — Computer Science  
+  Has strong experience in competitive programming and coding tests,
+  and contributed to algorithmic problem-solving and development during the hackathon.
+
+- **Jonghan Lee**  
+  Transportation Squadron, Major in Artificial Intelligence  
+  Has substantial experience in AI model design and training,
+  and contributed to AI model development and experimentation.
+
+
