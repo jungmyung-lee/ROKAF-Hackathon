@@ -1,24 +1,24 @@
 S = input()
 s = ""
 
-for i in S:
-    if i == " ":
-        s += i
+for char in S:
+    if char == " ":
+        s += char
         continue
-    elif i.isupper():
-        result = (ord(i)-65) + 13
+    elif char.isupper():
+        result = (ord(char)-65) + 13
         if result > 25:
             result -= 26
             s += chr(result+65)
         else:
             s += chr(result+65)
-    elif i.islower():
-        result = (ord(i)-97) + 13
+    elif char.islower():
+        result = (ord(char)-97) + 13
         if result > 25:
             result -= 26
             s += chr(result+97)
         else:
             s += chr(result+97)
     else:
-        s += i
+        s += char
 print(s)
