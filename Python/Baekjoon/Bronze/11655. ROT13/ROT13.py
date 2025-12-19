@@ -11,7 +11,7 @@ for i in S:
             result -= 26
             s += chr(result+65)
         else:
-            s+= chr(result+65)
+            s += chr(result+65)
     elif i.islower():
         result = (ord(i)-97) + 13
         if result > 25:
