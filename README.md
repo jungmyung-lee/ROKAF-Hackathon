@@ -53,12 +53,12 @@ Through these stages, I developed a deep understanding of how **time complexity,
   of the project.
 
 - **Doyoon Kwon**  
-  **Military Medical Officer Assignment  **
+  **Military Medical Officer Assignment**  
   Has extensive experience designing AI models for medical data analysis,
   primarily using **R**, and contributed to data preprocessing and model training.
 
 - **Hongjae Shim**  
-  Wing Headquarters, **Yonsei University — Computer Science  **
+  Wing Headquarters, **Yonsei University — Computer Science**  
   Has strong experience in competitive programming and coding tests,
   and contributed to algorithmic problem-solving and development during the hackathon.
 
