@@ -22,7 +22,5 @@ for i in S:
     elif i.isdigit():
         s += i
         continue
-        
-print(s)
-        
 
+print(s)
