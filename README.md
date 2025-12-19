@@ -47,8 +47,10 @@ Through these stages, I developed a deep understanding of how **time complexity,
 
 - **Jungmyung Lee — Team Leader**  
   Transportation Squadron  
-  **Iowa State University — Computer Science**  
-  Led the hackathon team from the coding test stage through the preliminary rounds,
+  **Iowa State University — Computer Science**
+  ->Led a 4-member team through a structured peer-learning system with weekly **Baekjoon-based algorithm** practice
+  and collaborative error analysis in **Python and C++.** 
+  ->Led the hackathon team from the coding test stage through the preliminary rounds,
   overseeing data preprocessing, AI model training, and overall technical direction
   of the project.
 
