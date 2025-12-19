@@ -30,10 +30,9 @@ for i in range(m):
 
 arrive = False
 for start_node in range(n):
-    if not visited[start_node]:
-        dfs(start_node, 1)
-        if arrive:
-            break
+    dfs(start_node, 1)
+    if arrive:
+        break
                 
 if arrive:
     print(1)

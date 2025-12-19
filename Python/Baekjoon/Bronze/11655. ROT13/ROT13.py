@@ -19,6 +19,6 @@ for i in S:
             s += chr(result+97)
         else:
             s += chr(result+97)
-    elif i.isdigit():
+    else:
         s += i
 print(s)
