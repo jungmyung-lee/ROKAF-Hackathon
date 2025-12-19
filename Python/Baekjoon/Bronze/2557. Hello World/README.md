@@ -1,0 +1,31 @@
+# [Bronze V] Hello World - 2557 
+
+[Problem Link](https://www.acmicpc.net/problem/2557) 
+
+### Performance Summary
+
+Memory: 32412 KB, Time: 28 ms
+
+### Classification
+
+Implementation
+
+### Submission Date
+
+2025-10-26 21:46:38
+
+### Problem Description
+
+<p>
+	Hello World!를 Output하시오.</p>
+
+### Input 
+
+ <p>
+	없음</p>
+
+### Output 
+
+ <p>
+	Hello World!를 Output하시오.</p>
+
