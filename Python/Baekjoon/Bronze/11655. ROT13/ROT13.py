@@ -1,24 +1,16 @@
+ROT_SHIFT = 13
+ALPHABET_SIZE = 26
+UPPER_A = ord("A")
+LOWER_A = ord("a")
+
 S = input()
 s = ""
 
 for char in S:
-    if char == " ":
-        s += char
-        continue
-    elif char.isupper():
-        result = (ord(char)-65) + 13
-        if result > 25:
-            result -= 26
-            s += chr(result+65)
-        else:
-            s += chr(result+65)
-    elif char.islower():
-        result = (ord(char)-97) + 13
-        if result > 25:
-            result -= 26
-            s += chr(result+97)
-        else:
-            s += chr(result+97)
+    if char.isalpha():
+        base = UPPER_A if char.isupper() else LOWER_A
+        offset = (ord(char) - base + ROT_SHIFT) % ALPHABET_SIZE
+        s += chr(base + offset)
     else:
         s += char
 print(s)

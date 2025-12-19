@@ -4,18 +4,15 @@ sys.setrecursionlimit(10**6)
 
 def dfs(x, depth):
     visited[x] = True
-    found = False
     if depth == 5:
-        found = True
-    else:
-        for nxt in graph[x]:
-            if not visited[nxt]:
-                if dfs(nxt, depth + 1):
-                    found = True
-                    break
-    # backtrack so other paths can reuse this node
+        visited[x] = False
+        return True
+    for nxt in graph[x]:
+        if not visited[nxt] and dfs(nxt, depth + 1):
+            visited[x] = False
+            return True
     visited[x] = False
-    return found
+    return False
 
 n, m = map(int, input().split())
 
