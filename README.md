@@ -1,6 +1,6 @@
 ## Baekjoon Step-by-Step Progress for **Republic of Korea Air Force Hackathon**
 
-I systematically completed Baekjoon’s structured step-by-step problem-solving curriculum using Python (and a few problems in **Java** and **C++**).
+I systematically completed Baekjoon’s structured step-by-step problem-solving curriculum using Python (and a few problems in **Java** and **Python**).
 From the most basic input/output exercises to algorithmic challenges like brute-force search and recursion,  
 each stage strengthened my foundation in algorithmic thinking and computational efficiency.
 
